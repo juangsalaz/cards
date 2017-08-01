@@ -1,0 +1,22 @@
+{
+  "name": "cardqueue",
+  "homepage": "https://github.com/cardqueue/cqcms-web-app",
+  "description": "cardqueue",
+  "main": "",
+  "authors": [
+    "juang salaz prabowo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-table": "^1.11.1",
+    "bootstrap-datepicker": "^1.7.1"
+  }
+}
